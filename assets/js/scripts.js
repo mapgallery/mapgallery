@@ -65,7 +65,7 @@ window.addEventListener('scroll', () => {
      */
     var defaultConfig = {
         // behaviour
-        mobileMenuMode: 'overlay',
+        mobileMenuMode: 'overlay', // 'overlay' or 'sidebar'
         animationSpeed: 300,
         submenuWidth: 300,
         doubleClickTime: 500,

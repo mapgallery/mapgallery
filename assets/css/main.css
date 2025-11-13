@@ -251,6 +251,12 @@ table {
   text-align: left;
   width: 100%;
 }
+@media all and (max-width: 37.4375em) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}
 table th {
   font-variation-settings: "wght" var(--font-weight-bold);
   padding: calc(var(--baseline) * 2.5) calc(var(--baseline) * 4);
@@ -1931,12 +1937,12 @@ textarea {
   }
 }
 .post__video, .post__iframe {
-  position: relative;
   display: block;
   margin-top: calc(var(--baseline) * 6);
   margin-bottom: calc(var(--baseline) * 8);
   overflow: hidden;
   padding: 0;
+  position: relative;
   width: 100%;
 }
 .post__video::before, .post__iframe::before {
@@ -1944,7 +1950,13 @@ textarea {
   content: "";
   padding-top: var(--embed-aspect-ratio);
 }
-.post__video iframe, .post__video video, .post__iframe iframe, .post__iframe video {
+.post__video iframe[height*="%"][width*="%"],
+.post__video video[height*="%"][width*="%"],
+.post__video iframe[height]:not([height*="%"])[width]:not([width*="%"]),
+.post__video video[height]:not([height*="%"])[width]:not([width*="%"]), .post__iframe iframe[height*="%"][width*="%"],
+.post__iframe video[height*="%"][width*="%"],
+.post__iframe iframe[height]:not([height*="%"])[width]:not([width*="%"]),
+.post__iframe video[height]:not([height*="%"])[width]:not([width*="%"]) {
   border: none;
   height: 100%;
   left: 0;
@@ -1952,6 +1964,9 @@ textarea {
   top: 0;
   bottom: 0;
   width: 100%;
+}
+.post__video:has(iframe:not([height]))::before, .post__video:has(iframe:not([width]))::before, .post__video:has(video:not([height]))::before, .post__video:has(video:not([width]))::before, .post__iframe:has(iframe:not([height]))::before, .post__iframe:has(iframe:not([width]))::before, .post__iframe:has(video:not([height]))::before, .post__iframe:has(video:not([width]))::before {
+  display: none;
 }
 .post__toc {
   background: var(--lightest);
