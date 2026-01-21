@@ -3,7 +3,7 @@
     <title>MapGallery | Intuïtieve WebGIS-oplossing voor kaarten</title>
     <link href="https://mapgallery.eu/feed.xml" rel="self" />
     <link href="https://mapgallery.eu" />
-    <updated>2026-01-21T16:52:57+01:00</updated>
+    <updated>2026-01-21T19:26:03+01:00</updated>
     <author>
         <name>B. Baas</name>
     </author>
@@ -155,7 +155,7 @@
             <![CDATA[
                     <p><img src="https://mapgallery.eu/media/posts/45/gemeentehaarlem-2.png" class="type:primaryImage" alt="" /></p>
                 <h3 data-start="297" data-end="317"><strong data-start="301" data-end="317">De uitdaging</strong></h3>
-<p data-start="318" data-end="644">Gemeente Haarlem beschikt over een grote hoeveelheid geografische gegevens: van wijk- en buurtindelingen tot parkeerzones, openbare ruimte-objecten en milieudata. De gemeente wilde deze informatie op een toegankelijke, visuele manier beschikbaar stellen voor inwoners, bedrijven en interne teams.<br data-start="614" data-end="617">Belangrijk daarbij waren:</p>
+<p data-start="318" data-end="644"><a href="https://haarlem.nl/" target="_blank" rel="noopener noreferrer">Gemeente Haarlem</a> beschikt over een grote hoeveelheid geografische gegevens: van wijk- en buurtindelingen tot parkeerzones, openbare ruimte-objecten en milieudata. De gemeente wilde deze informatie op een toegankelijke, visuele manier beschikbaar stellen voor inwoners, bedrijven en interne teams.<br data-start="614" data-end="617">Belangrijk daarbij waren:</p>
 <ul data-start="645" data-end="824">
 <li data-start="645" data-end="679">
 <p data-start="647" data-end="679">Transparantie richting burgers</p>
@@ -164,7 +164,7 @@
 <li data-start="645" data-end="679">Een kaartoplossing die eenvoudig te beheren is en voldoet aan overheidsrichtlijnen zoals de <a href="https://www.rijksoverheid.nl/toegankelijkheid">WCAG</a> en de <a href="https://www.digitaleoverheid.nl/overzicht-van-alle-onderwerpen/cybersecurity/bio-en-ensia/baseline-informatiebeveiliging-overheid/">BIO</a></li>
 </ul>
 <h3 data-start="826" data-end="871"><strong data-start="830" data-end="871">De oplossing: open standaarden en MapGallery als portaal</strong></h3>
-<p data-start="872" data-end="1193">Haarlem kiest voor MapGallery als centrale kaartviewer binnen het open-dataplatform.<br data-start="955" data-end="958">Met MapGallery kan de gemeente geografische datasets als overzichtelijke kaartlagen publiceren in één intuïtieve interface. De achterliggende gegevens worden ontsloten via open webservices, waar MapGallery rechtstreeks gebruik van maakt.</p>
+<p data-start="872" data-end="1193">Haarlem kiest voor MapGallery als centrale kaartviewer binnen het open-dataplatform <a href="https://haarlem.nl/open-data" target="_blank" rel="noopener noreferrer">Haarlem op de kaart</a>. Met MapGallery kan de gemeente geografische datasets als overzichtelijke kaartlagen publiceren in één intuïtieve interface. De achterliggende gegevens worden ontsloten via open webservices, waar MapGallery rechtstreeks gebruik van maakt.</p>
 <p data-start="1195" data-end="1285">Gebruikers kunnen kaartlagen zoeken, detailinformatie bekijken of direct doorklikken naar de brondata. Hierdoor hebben inwoners in één oogopslag inzicht in onder andere:</p>
 <ul data-start="1286" data-end="1423">
 <li data-start="1286" data-end="1326">
