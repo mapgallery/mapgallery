@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>MapGallery | Intuïtieve WebGIS-oplossing voor kaarten</title>
+    <title>MapGallery | Nederlandse kaartviewer</title>
     <link href="https://mapgallery.eu/feed.xml" rel="self" />
     <link href="https://mapgallery.eu" />
     <updated>2026-01-21T19:26:03+01:00</updated>
