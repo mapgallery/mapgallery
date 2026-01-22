@@ -3,7 +3,7 @@
     <title>MapGallery | Nederlandse kaartviewer</title>
     <link href="https://mapgallery.eu/feed.xml" rel="self" />
     <link href="https://mapgallery.eu" />
-    <updated>2026-01-21T19:26:03+01:00</updated>
+    <updated>2026-01-22T09:34:57+01:00</updated>
     <author>
         <name>B. Baas</name>
     </author>
@@ -349,20 +349,20 @@
         </author>
         <link href="https://mapgallery.eu/sail-amsterdam/"/>
         <id>https://mapgallery.eu/sail-amsterdam/</id>
-        <media:content url="https://mapgallery.eu/media/posts/26/sail2025-2.png" medium="image" />
+        <media:content url="https://mapgallery.eu/media/posts/26/sail-amsterdam-2025.webp" medium="image" />
             <category term="Nieuws"/>
             <category term="Klantverhalen"/>
 
         <updated>2025-09-22T20:59:59+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://mapgallery.eu/media/posts/26/sail2025-2.png" alt="" />
+                        <img src="https://mapgallery.eu/media/posts/26/sail-amsterdam-2025.webp" alt="" />
                     SAIL Amsterdam 2025 was niet zomaar een evenement, het was de tiende editie van een groots nautisch spektakel, georganiseerd in een jaar waarin de stad haar 750-jarig bestaan vierde en miljoenen bezoekers aantrok. Voor de organisaties achter de schermen - hulpdiensten, havenautoriteiten, gemeentelijke planners en&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mapgallery.eu/media/posts/26/sail2025-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mapgallery.eu/media/posts/26/sail-amsterdam-2025.webp" class="type:primaryImage" alt="" /></p>
                 <p data-start="402" data-end="656">SAIL Amsterdam 2025 was niet zomaar een evenement, het was de <strong>tiende editie</strong> van een groots nautisch spektakel, georganiseerd in een jaar waarin de stad haar <strong>750-jarig bestaan</strong> vierde en miljoenen bezoekers aantrok.</p>
 <p data-start="658" data-end="1035">Voor de organisaties achter de schermen - hulpdiensten, havenautoriteiten, gemeentelijke planners en crisispartners - was het cruciaal om continu inzicht te hebben in drukte, scheepsbewegingen, mobiliteit en risico’s. Traditionele methoden zoals handmatige monitoring zouden bij een evenement met deze schaal en complexiteit niet volstaan.</p>
 <h3 data-start="1156" data-end="1201">De oplossing: digital twin met MapGallery</h3>
@@ -392,20 +392,20 @@
         </author>
         <link href="https://mapgallery.eu/startanalyse-aardgasvrije-buurten-2025/"/>
         <id>https://mapgallery.eu/startanalyse-aardgasvrije-buurten-2025/</id>
-        <media:content url="https://mapgallery.eu/media/posts/43/startanalyse-2.png" medium="image" />
+        <media:content url="https://mapgallery.eu/media/posts/43/Startanalyse-2.webp" medium="image" />
             <category term="Nieuws"/>
             <category term="Klantverhalen"/>
 
         <updated>2025-02-01T14:40:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://mapgallery.eu/media/posts/43/startanalyse-2.png" alt="" />
+                        <img src="https://mapgallery.eu/media/posts/43/Startanalyse-2.webp" alt="" />
                     Gemeenten in Nederland staan voor de opgave om uiterlijk eind 2026 een warmteprogramma op te stellen voor hun transitie-van-het-aardgasnetwerk. Het PBL ontwikkelde de Startanalyse aardgasvrije buurten 2025 (ASA2025) als instrument om inzicht te geven in de nationale meerkosten, energieverbruiken en CO₂-reductie van verschillende technische warmtestrategieën&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://mapgallery.eu/media/posts/43/startanalyse-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://mapgallery.eu/media/posts/43/Startanalyse-2.webp" class="type:primaryImage" alt="" /></p>
                 <p data-start="447" data-end="1131">Gemeenten in Nederland staan voor de opgave om uiterlijk eind 2026 een warmteprogramma op te stellen voor hun transitie-van-het-aardgasnetwerk. Het PBL ontwikkelde de Startanalyse aardgasvrije buurten 2025 (ASA2025) als instrument om inzicht te geven in de nationale meerkosten, energieverbruiken en CO₂-reductie van verschillende technische warmtestrategieën op buurt- of gebouwniveau.</p>
 <p data-start="447" data-end="1131">De uitdaging was: hoe maak je deze uitgebreide datasets en analyses voor <strong data-start="987" data-end="1023">alle 14.000 buurten in Nederland</strong> op een toegankelijke, visuele en interactieve manier bruikbaar voor beleidsmakers, planologen en gemeenten?</p>
 <h3 data-start="1133" data-end="1200">MapGallery als kaart-viewer van de Startanalyse</h3>
