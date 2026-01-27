@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://mapgallery.eu/kubernetes-beheerder-met-een-bijzondere-interesse-in-kaarten/",
+            "url": "https://mapgallery.eu/kubernetes-beheerder-met-een-bijzondere-interesse-in-kaarten/",
+            "title": "Kubernetes beheerder met een bijzondere interesse in kaarten",
+            "summary": "TODO",
+            "content_html": "<p><code>TODO</code></p>",
+            "author": {
+                "name": "B. Baas"
+            },
+            "tags": [
+                   "Vacature"
+            ],
+            "date_published": "2026-01-27T15:53:40+01:00",
+            "date_modified": "2026-01-27T15:53:40+01:00"
+        },
+        {
             "id": "https://mapgallery.eu/premiere-behind-the-sail/",
             "url": "https://mapgallery.eu/premiere-behind-the-sail/",
             "title": "Première &quot;Behind the SAIL&quot;",
