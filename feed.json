@@ -16,6 +16,7 @@
             "title": "MapGallery 7.9 is uitgerold",
             "summary": "Alle details van deze release zijn terug te vinden in de changelog. Voor beheerders Attribuutinformatie kan nu worden opgemaakt met behulp van een HTML-template. Hiermee heb je volledige controle over de presentatie van gegevens. Raadpleeg de template-documentatie voor meer informatie over de mogelijkheden en toepassing.",
             "content_html": "<h5>Alle details van deze release zijn terug te vinden <a href=\"https://docs.mapgallery.eu/latest/changelog/\" target=\"_blank\" rel=\"noopener noreferrer\">in de changelog</a>.<br><br>Voor beheerders</h5>\n<p>Attribuutinformatie kan nu worden opgemaakt met behulp van een HTML-template. Hiermee heb je volledige controle over de presentatie van gegevens. Raadpleeg <a href=\"https://docs.mapgallery.eu/latest/admin/layers/#template\" target=\"_blank\" rel=\"noopener noreferrer\">de template-documentatie</a> voor meer informatie over de mogelijkheden en toepassing.<br><br>Bij het maken van kaartstijlen is er een belangrijke uitbreiding doorgevoerd. WellKnownMarks worden nu ondersteund, waardoor je kunt kiezen uit verschillende vormen zoals <code>circle</code>, <code>square</code>, <code>triangle</code>, <code>star</code>, <code>cross</code> en <code>x</code>.<br><br>Daarnaast ondersteunt MapGallery vanaf deze versie het <code>OGC API Features</code>-protocol. Dit kan op dezelfde manier worden toegevoegd als andere protocollen.<br><br>Binnen GeoStyler zijn bovendien de filtermogelijkheden uitgebreid: je kunt nu gebruikmaken van twee nieuwe operators: de <code>in</code>-operator (voor arrays) en de <code>*=</code>-operator (wildcards). Als een stijl ongeldig is, krijg je voortaan een duidelijke foutmelding.</p>\n<h5>Voor gebruikers</h5>\n<p>Dit zijn de belangrijkste nieuwe functies voor gebruikers:</p>\n<ul>\n<li>Filter ‘bevat’: Voor tekstvelden in kaartlagen is nu het filter bevat beschikbaar. Hiermee kun je filteren op tekst die ergens in een veld voorkomt. De zoekopdracht is niet hoofdlettergevoelig.</li>\n<li>Aanpasbare elementen: De grootte van een aantal elementen is nu instelbaar, zoals de breedte van de legenda en de hoogte van panorama of oblique beelden.</li>\n<li>Legenda bij export: Bij het exporteren van een kaartafbeelding wordt de legenda nu automatisch toegevoegd.</li>\n</ul>\n<h5>Nieuw supportsysteem</h5>\n<p>Vanaf 1 mei stappen we over op een nieuw supportsysteem. Je kunt ons gewoon blijven bereiken via support@mapgallery.eu. Het klantenportaal verhuist naar mapgallery.zammad.com.</p>\n<h5>Tot slot</h5>\n<p>Heb je vragen of feedback? Laat het ons weten via support@mapgallery.eu. We horen graag wat je ervan vindt!</p>",
+            "image": "https://mapgallery.eu/media/posts/55/mapgallery_79.png",
             "author": {
                 "name": "B. Baas"
             },
@@ -23,7 +24,7 @@
                    "Nieuws"
             ],
             "date_published": "2026-04-21T16:57:57+02:00",
-            "date_modified": "2026-04-29T09:44:56+02:00"
+            "date_modified": "2026-04-29T09:59:20+02:00"
         },
         {
             "id": "https://mapgallery.eu/kubernetes-beheerder-met-een-bijzondere-interesse-in-kaarten/",

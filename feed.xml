@@ -3,7 +3,7 @@
     <title>MapGallery | Nederlandse kaartviewer</title>
     <link href="https://mapgallery.eu/feed.xml" rel="self" />
     <link href="https://mapgallery.eu" />
-    <updated>2026-04-29T09:56:59+02:00</updated>
+    <updated>2026-04-29T09:59:20+02:00</updated>
     <author>
         <name>B. Baas</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://mapgallery.eu/mapgallery-79-is-uitgerold/"/>
         <id>https://mapgallery.eu/mapgallery-79-is-uitgerold/</id>
+        <media:content url="https://mapgallery.eu/media/posts/55/mapgallery_79.png" medium="image" />
             <category term="Nieuws"/>
 
         <updated>2026-04-21T16:57:57+02:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://mapgallery.eu/media/posts/55/mapgallery_79.png" alt="" />
                     Alle details van deze release zijn terug te vinden in de changelog. Voor beheerders Attribuutinformatie kan nu worden opgemaakt met behulp van een HTML-template. Hiermee heb je volledige controle over de presentatie van gegevens. Raadpleeg de template-documentatie voor meer informatie over de mogelijkheden en toepassing.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://mapgallery.eu/media/posts/55/mapgallery_79.png" class="type:primaryImage" alt="" /></p>
                 <h5>Alle details van deze release zijn terug te vinden <a href="https://docs.mapgallery.eu/latest/changelog/" target="_blank" rel="noopener noreferrer">in de changelog</a>.<br><br>Voor beheerders</h5>
 <p>Attribuutinformatie kan nu worden opgemaakt met behulp van een HTML-template. Hiermee heb je volledige controle over de presentatie van gegevens. Raadpleeg <a href="https://docs.mapgallery.eu/latest/admin/layers/#template" target="_blank" rel="noopener noreferrer">de template-documentatie</a> voor meer informatie over de mogelijkheden en toepassing.<br><br>Bij het maken van kaartstijlen is er een belangrijke uitbreiding doorgevoerd. WellKnownMarks worden nu ondersteund, waardoor je kunt kiezen uit verschillende vormen zoals <code>circle</code>, <code>square</code>, <code>triangle</code>, <code>star</code>, <code>cross</code> en <code>x</code>.<br><br>Daarnaast ondersteunt MapGallery vanaf deze versie het <code>OGC API Features</code>-protocol. Dit kan op dezelfde manier worden toegevoegd als andere protocollen.<br><br>Binnen GeoStyler zijn bovendien de filtermogelijkheden uitgebreid: je kunt nu gebruikmaken van twee nieuwe operators: de <code>in</code>-operator (voor arrays) en de <code>*=</code>-operator (wildcards). Als een stijl ongeldig is, krijg je voortaan een duidelijke foutmelding.</p>
 <h5>Voor gebruikers</h5>
