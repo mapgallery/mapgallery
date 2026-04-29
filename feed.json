@@ -11,22 +11,6 @@
     },
     "items": [
         {
-            "id": "https://mapgallery.eu/mapgallery-79-is-uitgerold/",
-            "url": "https://mapgallery.eu/mapgallery-79-is-uitgerold/",
-            "title": "MapGallery 7.9 is uitgerold",
-            "summary": "Alle details van deze release zijn terug te vinden in de changelog. Voor beheerders Attribuutinformatie kan nu worden opgemaakt met behulp van een HTML-template. Hiermee heb je volledige controle over de presentatie van gegevens. Raadpleeg de template-documentatie voor meer informatie over de mogelijkheden en toepassing.",
-            "content_html": "<h5>Alle details van deze release zijn terug te vinden <a href=\"https://docs.mapgallery.eu/latest/changelog/\" target=\"_blank\" rel=\"noopener noreferrer\">in de changelog</a>.<br><br>Voor beheerders</h5>\n<p>Attribuutinformatie kan nu worden opgemaakt met behulp van een HTML-template. Hiermee heb je volledige controle over de presentatie van gegevens. Raadpleeg <a href=\"https://docs.mapgallery.eu/latest/admin/layers/#template\" target=\"_blank\" rel=\"noopener noreferrer\">de template-documentatie</a> voor meer informatie over de mogelijkheden en toepassing.<br><br>Bij het maken van kaartstijlen is er een belangrijke uitbreiding doorgevoerd. WellKnownMarks worden nu ondersteund, waardoor je kunt kiezen uit verschillende vormen zoals <code>circle</code>, <code>square</code>, <code>triangle</code>, <code>star</code>, <code>cross</code> en <code>x</code>.<br><br>Daarnaast ondersteunt MapGallery vanaf deze versie het <code>OGC API Features</code>-protocol. Dit kan op dezelfde manier worden toegevoegd als andere protocollen.<br><br>Binnen GeoStyler zijn bovendien de filtermogelijkheden uitgebreid: je kunt nu gebruikmaken van twee nieuwe operators: de <code>in</code>-operator (voor arrays) en de <code>*=</code>-operator (wildcards). Als een stijl ongeldig is, krijg je voortaan een duidelijke foutmelding.</p>\n<h5>Voor gebruikers</h5>\n<p>Dit zijn de belangrijkste nieuwe functies voor gebruikers:</p>\n<ul>\n<li>Filter ‘bevat’: Voor tekstvelden in kaartlagen is nu het filter bevat beschikbaar. Hiermee kun je filteren op tekst die ergens in een veld voorkomt. De zoekopdracht is niet hoofdlettergevoelig.</li>\n<li>Aanpasbare elementen: De grootte van een aantal elementen is nu instelbaar, zoals de breedte van de legenda en de hoogte van panorama of oblique beelden.</li>\n<li>Legenda bij export: Bij het exporteren van een kaartafbeelding wordt de legenda nu automatisch toegevoegd.</li>\n</ul>\n<h5>Nieuw supportsysteem</h5>\n<p>Vanaf 1 mei stappen we over op een nieuw supportsysteem. Je kunt ons gewoon blijven bereiken via support@mapgallery.eu. Het klantenportaal verhuist naar mapgallery.zammad.com.</p>\n<h5>Tot slot</h5>\n<p>Heb je vragen of feedback? Laat het ons weten via support@mapgallery.eu. We horen graag wat je ervan vindt!</p>",
-            "image": "https://mapgallery.eu/media/posts/55/mapgallery_79.png",
-            "author": {
-                "name": "B. Baas"
-            },
-            "tags": [
-                   "Nieuws"
-            ],
-            "date_published": "2026-04-21T16:57:57+02:00",
-            "date_modified": "2026-04-29T09:59:20+02:00"
-        },
-        {
             "id": "https://mapgallery.eu/kubernetes-beheerder-met-een-bijzondere-interesse-in-kaarten/",
             "url": "https://mapgallery.eu/kubernetes-beheerder-met-een-bijzondere-interesse-in-kaarten/",
             "title": "Kubernetes beheerder met een bijzondere interesse in kaarten",
@@ -68,7 +52,7 @@
                 "name": "B. Baas"
             },
             "tags": [
-                   "Nieuws"
+                   "Projecten"
             ],
             "date_published": "2026-01-18T14:22:00+01:00",
             "date_modified": "2026-01-21T16:52:57+01:00"
@@ -148,10 +132,11 @@
                 "name": "B. Baas"
             },
             "tags": [
+                   "Projecten",
                    "Klantverhalen"
             ],
             "date_published": "2025-11-13T14:28:34+01:00",
-            "date_modified": "2026-01-21T19:25:26+01:00"
+            "date_modified": "2026-04-29T12:16:36+02:00"
         },
         {
             "id": "https://mapgallery.eu/sail-amsterdam/",
@@ -164,11 +149,28 @@
                 "name": "B. Baas"
             },
             "tags": [
-                   "Nieuws",
+                   "Projecten",
                    "Klantverhalen"
             ],
             "date_published": "2025-09-22T20:59:59+02:00",
             "date_modified": "2026-01-22T09:27:27+01:00"
+        },
+        {
+            "id": "https://mapgallery.eu/startanalyse-aardgasvrije-buurten-2025/",
+            "url": "https://mapgallery.eu/startanalyse-aardgasvrije-buurten-2025/",
+            "title": "Startanalyse aardgasvrije buurten 2025",
+            "summary": "Gemeenten in Nederland staan voor de opgave om uiterlijk eind 2026 een warmteprogramma op te stellen voor hun transitie-van-het-aardgasnetwerk. Het PBL ontwikkelde de Startanalyse aardgasvrije buurten 2025 (ASA2025) als instrument om inzicht te geven in de nationale meerkosten, energieverbruiken en CO₂-reductie van verschillende technische warmtestrategieën&hellip;",
+            "content_html": "<p data-start=\"447\" data-end=\"1131\">Gemeenten in Nederland staan voor de opgave om uiterlijk eind 2026 een warmteprogramma op te stellen voor hun transitie-van-het-aardgasnetwerk. Het PBL ontwikkelde de Startanalyse aardgasvrije buurten 2025 (ASA2025) als instrument om inzicht te geven in de nationale meerkosten, energieverbruiken en CO₂-reductie van verschillende technische warmtestrategieën op buurt- of gebouwniveau.</p>\n<p data-start=\"447\" data-end=\"1131\">De uitdaging was: hoe maak je deze uitgebreide datasets en analyses voor <strong data-start=\"987\" data-end=\"1023\">alle 14.000 buurten in Nederland</strong> op een toegankelijke, visuele en interactieve manier bruikbaar voor beleidsmakers, planologen en gemeenten?</p>\n<h3 data-start=\"1133\" data-end=\"1200\">MapGallery als kaart-viewer van de Startanalyse</h3>\n<p data-start=\"1201\" data-end=\"1366\">Met MapGallery is een interactieve kaartviewer gerealiseerd waarin de ASA2025-data visueel ontsloten worden. Gemeenten kunnen via de kaart laag voor laag bekijken:</p>\n<ul data-start=\"1367\" data-end=\"1805\">\n<li data-start=\"1367\" data-end=\"1478\">\n<p data-start=\"1369\" data-end=\"1478\">Welke warmtestrategie in een buurt de <a href=\"https://warmte-pompen.nl/actualisatie-startanalyse-aardgasvrije-buurten-2025/\" target=\"_blank\" rel=\"noopener noreferrer\">laagste nationale kosten heeft</a>;</p>\n</li>\n<li data-start=\"1367\" data-end=\"1478\">De <a href=\"https://www.pbl.nl/publicaties/actualisatie-startanalyse-aardgasvrije-buurten-2025\" target=\"_blank\" rel=\"noopener noreferrer\">variantopties per strategie</a>;</li>\n<li data-start=\"1367\" data-end=\"1478\"><a href=\"https://startanalyse.pbl.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">Technische indicatoren</a> zoals isolatiekwaliteit, energieverbruik, beschikbaarheid van warmtebron of netwerken;</li>\n<li data-start=\"1367\" data-end=\"1478\"><a href=\"https://startanalyse.pbl.nl/\" target=\"_blank\" rel=\"noopener noreferrer\">Downloadbare tabellen</a> en gemeentedata voor lokaal gebruik.</li>\n</ul>\n<p data-start=\"1807\" data-end=\"2034\">Dankzij MapGallery kunnen gemeenten eenvoudig inzoomen op hun eigen gebied of buurt, scenario’s vergelijken, en de data verrijken met lokale informatie. Zo wordt de grote dataset actief inzetbaar in de gebiedsgerichte planning.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://mapgallery.eu/media/posts/43/kaartviewer.startanalyse2025.nl_app_map_main_123_info-1.png\" alt=\"\" width=\"1400\" height=\"600\"></figure>\n<h3 data-start=\"2036\" data-end=\"2055\">Het resultaat</h3>\n<ul data-start=\"2056\" data-end=\"2811\">\n<li data-start=\"2056\" data-end=\"2240\">\n<p data-start=\"2058\" data-end=\"2240\"><strong data-start=\"2058\" data-end=\"2094\">Toegankelijkheid &amp; gebruiksgemak</strong>: In plaats van complexe tabellen of rapporten, biedt de kaartomgeving een intuïtieve interface voor beleidsmedewerkers, planologen én bewoners.</p>\n</li>\n<li data-start=\"2241\" data-end=\"2491\">\n<p data-start=\"2243\" data-end=\"2491\"><strong data-start=\"2243\" data-end=\"2281\">Onderbouwde gebiedsgerichte keuzes</strong>: Gemeenten kunnen op basis van de kaartviewer sneller zien welke buurten kansrijk zijn voor welk type warmtestrategie zoals bijvoorbeeld warmtenet, all-electric of hybride warmtepomp.</p>\n</li>\n<li data-start=\"2492\" data-end=\"2646\">\n<p data-start=\"2494\" data-end=\"2646\"><strong data-start=\"2494\" data-end=\"2525\">Efficiëntie in communicatie</strong>: De visuele kaart maakt het makkelijker om stakeholders, bewoners en gemeenteraad te betrekken bij de warmtetransitie.</p>\n</li>\n<li data-start=\"2647\" data-end=\"2811\">\n<p data-start=\"2649\" data-end=\"2811\"><strong data-start=\"2649\" data-end=\"2682\">Schaalbaarheid &amp; consistentie</strong>: De tool bedient alle gemeenten in Nederland met dezelfde dataset en structuur — wat zorgt voor uniformiteit in de analysebasis.</p>\n</li>\n</ul>\n<p data-start=\"3121\" data-end=\"3220\">MapGallery biedt krachtige ondersteuning voor grote geodatabestanden en complexe kaartlagen, waardoor analyses op nationaal, regionaal en wijkniveau moeiteloos kunnen worden uitgevoerd. Dankzij de intuïtieve kaartinterface wordt de informatie direct inzichtelijk, óók voor gebruikers zonder GIS-achtergrond. Bovendien laat het platform zich eenvoudig uitbreiden met lokaal verrijkte data en externe databronnen. De snelle implementatie maakte het mogelijk om het instrument tijdig beschikbaar te stellen aan gemeenten.</p>\n<p><strong data-start=\"2166\" data-end=\"2261\">Wil je weten wat MapGallery voor jouw organisatie kan betekenen? <a href=\"https://mapgallery.eu/contact/\">Neem contact met ons op.</a></strong></p>\n<p> </p>",
+            "image": "https://mapgallery.eu/media/posts/43/Startanalyse-2.webp",
+            "author": {
+                "name": "B. Baas"
+            },
+            "tags": [
+                   "Projecten",
+                   "Klantverhalen"
+            ],
+            "date_published": "2025-02-01T14:40:00+01:00",
+            "date_modified": "2026-01-22T09:34:57+01:00"
         }
     ]
 }
