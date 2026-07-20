@@ -1,5 +1,5 @@
-# %sitename
-> Nederlandse WebGIS-viewer voor kaarten en GIS-data in 2D en 3D. Modern, gebruiksvriendelijk en geschikt voor desktop en mobiel.
+# MapGallery WebGIS
+> MapGallery is a Dutch WebGIS platform for viewing and sharing maps and GIS data in 2D and 3D — browser-based, OGC-compliant, and used by municipalities, safety regions, and businesses in the Netherlands.
 
 ## Key Resources
 - [Sail Amsterdam 2025](https://mapgallery.eu/sail-amsterdam/): SAIL Amsterdam 2025 was niet zomaar een evenement, het was de tiende editie van een groots nautisch spektakel, georganiseerd in een jaar waarin de stad haar 750-jarig bestaan vierde en miljoenen bezoekers aantrok. Voor de organisaties achter de schermen - hulpdiensten, havenautoriteiten, gemeentelijke planners en...
