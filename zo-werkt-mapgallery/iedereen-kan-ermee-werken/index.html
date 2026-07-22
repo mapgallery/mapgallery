@@ -7,7 +7,14 @@
         doubleClickTime: 500,
         mobileMenuExpandableSubmenus: true,
         relatedContainerForOverlayMenuSelector: '.header'
-    }</script><script>var images = document.querySelectorAll('img[loading]');
+    }
+        window.publiiThemeAccordionConfig = {
+            openOnlyOne: true,
+            openFirstItem: true,
+            idFormat: 'faq{{index}}-{{subindex}}',
+            wrapperSelector: '.faq__list',
+            contentWrapperClass: 'faq__content-wrapper'
+        }</script><script>var images = document.querySelectorAll('img[loading]');
         for (var i = 0; i < images.length; i++) {
             if (images[i].complete) {
                 images[i].classList.add('is-loaded');
@@ -132,7 +139,7 @@
 				window.open(shareUrl, '_blank');
 			}</script><script>window.publiiStaticSearchConfig = { 
 					baseURL: 'https://mapgallery.eu',
-					indexChecksum: '36be84524099affce026f1971dd0324e',
+					indexChecksum: '7f9e7dc95fc2641f22bb74a7d1a96b64',
 					minCharCount: 3,
 					maxResultsCount: 20,
 					showPopupOnInputClick: false,
